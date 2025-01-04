@@ -1,0 +1,1 @@
+# EsameDiProgrammazioneAvanzataParallela
